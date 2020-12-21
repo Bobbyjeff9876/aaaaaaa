@@ -11,7 +11,7 @@
           width="80"
         />
 
-        <h2 class="px-3 hidden-xs-only">Among Us Indoor Chat V2</h2>
+        <h2 class="px-3 hidden-xs-only">Among Us Indoor Chat V2.1 || Updated for v2020.11.17</h2>
       </div>
 
       <v-spacer></v-spacer>
